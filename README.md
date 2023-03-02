@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaygusuzemre
 
-If you wanna develop any projects, We can do that together!
+If you wanna develop any projects, We can do it together!
 
 <!---
 kaygusuzemre/kaygusuzemre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
